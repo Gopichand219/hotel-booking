@@ -1,0 +1,56 @@
+.hotel-facilities-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    width: 95%;
+    margin: auto;
+}
+
+.hotel-facilities {
+    color: #fff;
+    font-family: Open Sans;
+    padding: 8px;
+    width: 411px;
+}
+
+.hotel-facilities-head {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 50px; 
+    color: #ffffff;
+}
+
+.contact-now-btn {
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 35px;
+    background: rgba(255, 118, 101, 0.80);
+    border-width: 0px;
+    color: #ffffff;
+}
+
+.hotel-facilities-item {
+    width: 193px;
+    height: 193px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #E8E8E8;
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #222;
+    font-family: Open Sans;
+    margin: 10px;
+}
+
+.hotel-facilities-items-container {
+    display: flex;
+    flex-wrap: wrap;
+}

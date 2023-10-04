@@ -1,0 +1,86 @@
+.popular-rooms-container {
+    width: 95%;
+    margin: auto;
+}
+
+.popular-rooms-head {
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.popular-rooms-view-all-btn {
+    width: 109px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 280px;
+    background: rgba(255, 118, 101, 0.40);
+    border-width: 0px;
+    color: #FAFAFA;
+}
+
+.popular-rooms-view-all-btn-container {
+    text-align: right;
+    margin-bottom: 30px;
+}
+
+.popular-rooms {
+    display: flex;
+    justify-content: space-between;
+}
+
+.popular-room-item {
+    display: flex;
+    flex-direction: column;
+    border-radius: 16px;
+    background: #FAFAFA;
+    color: black;
+}
+
+.popular-room-image {
+    border-radius: 16px 16px 0px 0px; 
+    width: 411px;
+    height: 320px;
+    flex-shrink: 0;
+}
+
+.popular-room-image1 {
+    background: url('/home/lenovo/Downloads/roomw 1.jpg'), lightgray 50% / cover no-repeat;
+}
+
+.popular-room-image2 {
+    background: url('/home/lenovo/Downloads/roomw 2.jpg'), lightgray 50% / cover no-repeat;
+}
+
+.popular-room-image3 {
+    background: url('/home/lenovo/Downloads/roomw 3.jpg'), lightgray 50% / cover no-repeat;
+}
+
+.vertical-line2 {
+    width: 1px;
+    height: 16px;
+    background: #DDD;
+}
+
+.popular-room-extra-details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.popular-room-details {
+    padding: 20px;
+}
+
+.rating {
+    display: flex;
+}
+
+.rating-number {
+    margin-bottom: 5px;
+}

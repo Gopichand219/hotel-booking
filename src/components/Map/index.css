@@ -1,0 +1,43 @@
+.map-bg {
+    width: 95%;
+    margin: auto;
+    height: 677px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: url('/home/lenovo/Downloads/map.jpg'), lightgray 50% / cover no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.visit-us-container {
+    width: 90%;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: #FFF;
+    color: #555;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.visit-us-head {
+    color: #222;
+    font-family: Open Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.contact-btn {
+    width: 124px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: rgba(211, 101, 88, 0.80);
+    color: white;
+    border-width: 0px;
+}

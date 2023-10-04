@@ -1,0 +1,15 @@
+.hotel-booking-home-navbar {
+    width: 1280px;
+    height: 40px;
+    top: 40px;
+    left: 80px;
+    padding: 0px, 0px, 0px, 402px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.hotel-booking-home-navbar-item {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}

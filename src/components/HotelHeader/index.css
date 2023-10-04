@@ -1,0 +1,139 @@
+.hotel-booking-home-header {
+    width: 95%;
+    height: 656px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 50px;
+    border-radius: 16px;
+    background: #FFFFFF;
+}
+
+.hotel-booking-home-header-details {
+    padding: 50px;
+}
+
+.hotel-booking-home-head {
+    width: 499px;
+    height: 240px;
+    top: 71px;
+    left: 60px;
+    font-family: 'Poppins';
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 80px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.hotel-booking-home-para {
+    color: #555;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+
+.hotel-booking-home-login-btn {
+    width: 133px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 35px;
+    background: #FF7665;
+    border-style: solid;
+    border-width: 0px;
+    color: white;
+}
+
+.hotel-booking-home-header-video-container {
+    display: flex;
+}
+
+.hotel-booking-home-header-video-text {
+    margin-top: 6px;
+    color: #222;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px; 
+}
+
+
+
+.hotel-booking-hotel-image {
+    width: 50%;
+    height: 657px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: url('/home/lenovo/Downloads/hotel1.jpg'), lightgray 50% / cover no-repeat;
+}
+
+.hotel-booking-header-extra-details {
+    width: 160%;
+    height: 100px;
+    margin-right: 500px;
+    margin-bottom: 20px;
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 0;
+    border-radius: 280px;
+    background: #FFF;
+    box-shadow: 0px 22px 38px 0px rgba(0, 34, 19, 0.08);
+}
+
+.hotel-booking-header-extra-details-item {
+    height: 48px;
+    flex-shrink: 0;
+    display: flex;
+    padding-top: 20px;
+}
+
+.vertical-line {
+    margin-top: 20px;
+    width: 1px;
+    height: 68px;
+    background: #E8E8E8;
+    
+}
+
+.hotel-booking-extra-details-icon {
+    margin-top: 40px;
+}
+
+.hotel-booking-extra-details-name {
+    color: #222;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    color: #222222;
+}
+
+.hotel-booking-extra-details-search-container {
+    width: 200px;
+    height: 100px;
+    flex-shrink: 0;
+    border-radius: 280px;
+    background: rgba(255, 84, 62, 0.80);
+    padding-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.hotel-booking-extra-details-search {
+    margin-left: 10px;
+    margin-top: 12px;
+}
